@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Saved/Config/CrashReportClient/UECC-Windows-8787ADF2412A3B7DB084AFAB6C0F5AD6/CrashReportClient.ini
+/.gitignore
